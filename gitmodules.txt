@@ -1,3 +1,3 @@
-[submodule "repo/plugin.programe.bizzlewizard"]
-	path = repo/plugin.programe.bizzlewizard
-	url = https://github.com/bizzlebuild/plugin.programe.bizzlewizard
+[submodule "plugin.programe.bizzlewizard"]
+	path = plugin.programe.bizzlewizard
+	url = https://github.com/bizzlebuild/plugin.program.bizzlewizard/plugin.program.bizzlewizard.zip
